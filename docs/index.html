@@ -1,11 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Daniel Luna</title>
+
+  <style>
+    body {
+      background-color: #c8e0f5;
+      color: #36393b;
+
+      margin: 0;
+      padding: 1rem;
+
+      overscroll-behavior-x: none;
+      overscroll-behavior-y: none;
+
+      display: grid;
+      gap: 1rem;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    .glass {
+      padding: 0.5rem;
+
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 10px;
+      -webkit-backdrop-filter: blur(2px);
+      backdrop-filter: blur(2px);
+      background: rgba(255, 255, 255, 0.5);
+      box-shadow: 0 8px 16px 0 rgba(31, 38, 135, 0.37);
+    }
+
+    h1,
+    h2 {
+      text-align: center;
+    }
+  </style>
 </head>
+
 <body>
-  <h1>Hello World!</h1>
+  <div class="glass">
+    <h1>Daniel Luna</h1>
+  </div>
+
+  <div class="glass">
+    <h2>Quick Links</h2>
+    <div>
+      <a href="" target="_blank">PDF Resume</a>
+      <a href="" target="_blank">Full Personal Website</a>
+      <a href="" target="_blank">LinkedIn</a>
+      <a href="" target="_blank">Github</a>
+    </div>
+  </div>
+
+  <div class="glass">
+    <h2>Education</h2>
+    <div>
+      <h3>The University Of Chicago</h3>
+      <h4>Bachelor of Science in <em>Computer Science & Mathematics</em></h4>
+    </div>
+    <div>
+      <h3>The Bronx High School of Science</h3>
+      <h4><em>Advanced Regents Diploma</em></h4>
+      <p>AP Scholar, National Hispanic Recognition Program Scholar</p>
+    </div>
+  </div>
+
+  <div class="glass">
+    <h2>Work Experience</h2>
+    <div>
+      <h3>Cyracom International</h3>
+      <h4>Spanish Bilingual Interpreter</h4>
+    </div>
+    <div>
+      <h3>Self-Employed</h3>
+      <h4>Tutor</h4>
+      <ul>
+        <li>Helped students focus on specific gaps in their knowledge in multiple core subjects.</li>
+        <li>Proficient in time management, independence, and communication skills because of it.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="glass">
+    <h2>Projects</h2>
+    <div>
+      <h3>Youth Genes</h3>
+      <p>This is a test description</p>
+      <a href="" target="_blank">Visit Site</a>
+    </div>
+  </div>
+
 </body>
+
 </html>
