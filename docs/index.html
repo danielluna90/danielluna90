@@ -7,6 +7,10 @@
   <title>Daniel Luna</title>
 
   <style>
+    html {
+      font-family: system-ui, sans-serif;
+    }
+
     body {
       background-color: #c8e0f5;
       color: #36393b;
@@ -36,9 +40,37 @@
       box-shadow: 0 8px 16px 0 rgba(31, 38, 135, 0.37);
     }
 
+    h1 {
+      margin: 0.25rem;
+    }
+
     h1,
     h2 {
       text-align: center;
+    }
+
+    a {
+      background-color: #0560fd;
+      color: #fff;
+
+      text-decoration: none;
+
+      padding: 0.75rem 0.5rem;
+      border-radius: 0.5rem;
+
+      text-align: center;
+      font-weight: bold;
+    }
+
+    ul {
+      padding: 0 0 0 20px;
+    }
+
+    .link-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+
+      gap: 0.5rem;
     }
   </style>
 </head>
@@ -50,11 +82,11 @@
 
   <div class="glass">
     <h2>Quick Links</h2>
-    <div>
-      <a href="" target="_blank">PDF Resume</a>
-      <a href="" target="_blank">Full Personal Website</a>
-      <a href="" target="_blank">LinkedIn</a>
-      <a href="" target="_blank">Github</a>
+    <div class="link-container">
+      <a href="https://danielluna.nyc/DanielLuna-Resume-Latest.pdf" target="_blank">Resume</a>
+      <a href="https://danielluna.nyc" target="_blank">Personal Website</a>
+      <a href="https://linkedin.com/in/danielluna90" target="_blank">LinkedIn</a>
+      <a href="https://github.com/danielluna90" target="_blank">Github</a>
     </div>
   </div>
 
