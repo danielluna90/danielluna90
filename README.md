@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Luna</h1>
-<h3 align="center">A Second Year Student at The University of Chicago</h3>
+<h3 align="center">A Third Year Student at The University of Chicago</h3>
 
 ## A Bit About Me
 
