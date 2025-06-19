@@ -11,7 +11,7 @@
 
 - 📫 Contact me at: **lunad@uchicago.edu**
 
-- 📄 My Latest Resume: [https://danielluna.nyc/DanielLuna-Resume-June-2024.pdf](https://danielluna.nyc/DanielLuna-Resume-June-2025.pdf)
+- 📄 My Latest Resume: [https://danielluna.nyc/DanielLuna-Resume-June-2025.pdf](https://danielluna.nyc/DanielLuna-Resume-June-2025.pdf)
 
 ## Social Links
 
