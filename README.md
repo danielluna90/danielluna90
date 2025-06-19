@@ -11,7 +11,7 @@
 
 - 📫 Contact me at: **lunad@uchicago.edu**
 
-- 📄 My Latest Resume: [https://danielluna.nyc/DanielLuna-Resume-June-2024.pdf](https://danielluna.nyc/DanielLuna-Resume-June-2024.pdf)
+- 📄 My Latest Resume: [https://danielluna.nyc/DanielLuna-Resume-June-2024.pdf](https://danielluna.nyc/DanielLuna-Resume-June-2025.pdf)
 
 ## Social Links
 
@@ -22,6 +22,6 @@
 - [Leetcode](https://www.leetcode.com/danielluna90)
 
 ## Languages and Tools Used
-C++, Python, Typescript
+C/C++, Python, Typescript, Rust
 
 Node.JS, React, Astro, Next.JS
