@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Luna</h1>
-<h3 align="center">A Third Year Student at The University of Chicago</h3>
+<h3 align="center">A Fourth Year Student at The University of Chicago</h3>
 
 ## A Bit About Me
 
@@ -19,9 +19,9 @@
 
 - [Instagram](https://instagram.com/daniel_luna_90)
 
-- [Leetcode](https://www.leetcode.com/danielluna90)
-
 ## Languages and Tools Used
 C/C++, Python, Typescript, Rust
 
-Node.JS, React, Astro, Next.JS
+Node.JS / Bun
+
+React - Next.JS, Astro
